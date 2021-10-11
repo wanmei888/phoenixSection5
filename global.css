@@ -1,0 +1,91 @@
+  ol {
+      padding-left: 1.4em;
+      list-style: decimal;
+  }
+  
+  body {
+      margin: 0 auto;
+      color: rgb(23, 23, 24);
+  }
+  
+  p {
+      margin-bottom: 25px;
+  }
+  
+  .registration-from {
+      width: 80%;
+      height: 100%;
+      margin: 0 auto;
+      margin-top: 120px;
+  }
+  
+  .socials {
+      margin-top: 50px;
+      width: 1346px;
+      height: 200px;
+      background-color: #334257;
+  }
+  
+  .ul-2 {
+      width: 50%;
+      display: flex;
+      justify-content: space-around;
+      margin: 0 auto;
+      padding-top: 100px;
+  }
+  
+  .fa-instagram-square,
+  .fa-youtube {
+      font-size: 25px;
+      color: rgb(192, 78, 78);
+  }
+  
+  .subform {
+      font-size: 1.2em;
+      color: rgb(8, 8, 8);
+      font-family: Tahoma, Geneva, sans-serif;
+  }
+  
+  .subform .label {
+      display: inline-block;
+      width: 200px;
+      vertical-align: top;
+      text-align: right;
+      margin-right: 10px;
+      font-weight: bold;
+      color: rgba(15, 15, 15, 0.5);
+  }
+  
+  .subform input[type="submit"] {
+      margin-left: 220px;
+      padding: 10px 25px;
+      font-size: 1em;
+      color: rgb(26, 27, 18);
+      border-radius: 5px;
+      box-shadow: 0 0 4px white;
+      background: rgb(199, 206, 103);
+      background: linear-gradient(to bottom, rgba(255, 255, 255, .1) 40%, rgba(255, 255, 255, .5));
+  }
+  
+  .subform select {
+      font-size: 1.2em;
+  }
+  
+  .subform input[type="text"],
+  .subform textarea {
+      border-radius: 5px;
+      border: none;
+      background-color: rgba(255, 255, 255, .5);
+      color: rgb(22, 22, 22);
+      font-size: 1.2em;
+      width: 500px;
+      padding: 5px;
+      box-shadow: inset 0 0 10px rgba(255, 255, 255, .75);
+      outline: none;
+  }
+  
+  .subform input[type="text"]:focus,
+  .subform textarea:focus {
+      background-color: white;
+      color: black;
+  }

@@ -1,0 +1,23 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\project-D\\main"
+		},
+		{
+			"path": "..\\..\\..\\project-A"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\berrycake\\wp-content\\themes\\berrycake"
+		},
+		{
+			"path": "..\\..\\..\\web-projects\\MoGo"
+		},
+		{
+			"path": "..\\..\\..\\web-projects\\корзина"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "grid",
+        "git.ignoreLimitWarning": true
+    }
+}

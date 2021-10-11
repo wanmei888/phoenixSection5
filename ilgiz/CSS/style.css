@@ -1,0 +1,36 @@
+.heading {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+.margin {
+    text-align: center;
+    height: 600px;
+    background-image: url(https://media.publit.io/file/Snow-background-night.png) ;
+    color: white;
+}
+.middle-container {
+   text-align: center;
+   
+}
+.bottom-container {
+    margin: 0 auto;
+    text-align: center;
+}
+.middle-container h4 {
+    margin: 0 auto;
+    width: 800px
+}
+.profile {
+    height: 300px;
+    border-radius: 50%;
+}
+.hobby {
+    border-radius: 50%;
+}
+body {
+    background-color: cornsilk;
+}
+.icon {
+    
+    height: 200px;
+    display: inline-block;
+}
